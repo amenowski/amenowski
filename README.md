@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">I'am Mateusz from Poland, and I do content on Development. I really enjoy learning languages and frameworks like JavaScript and React, I also know a little java, c++ and android. My hobby is the gym, I enjoy it and it relaxes me.</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
