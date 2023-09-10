@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React*
 
 - 💬 Ask me about **JavaScript/HTML/CSS**
 
